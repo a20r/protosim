@@ -1,2 +1,0 @@
-/Users/chutsu/Dropbox/proj/toys/protosim/src/CMakeFiles/hello_world.dir
-/Users/chutsu/Dropbox/proj/toys/protosim/CMakeFiles/uninstall.dir

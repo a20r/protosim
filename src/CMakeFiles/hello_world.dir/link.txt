@@ -1,1 +1,0 @@
-g++   -Wall -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/hello_world.dir/hello_world.cpp.o  -o ../bin/hello_world  -lglfw3 -framework OpenGL 

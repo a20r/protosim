@@ -1,0 +1,9 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+
+INCLUDE_DIRECTORIES(../include)
+INCLUDE_DIRECTORIES(/usr/local/include/)
+LINK_DIRECTORIES(/usr/local/lib)
+LINK_DIRECTORIES(/usr/lib)
+
+ADD_EXECUTABLE(hello_world hello_world.c)
+TARGET_LINK_LIBRARIES(hello_world ${LIB_GLFW} ${OPENGL_LIB})
